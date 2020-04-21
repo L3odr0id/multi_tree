@@ -16,6 +16,7 @@ root
 root obj1 3 1
 root obj2 2 10
 obj1 lol 4 -3
+endtree
 ```
  
 #### Tree structure:
