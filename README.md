@@ -1,4 +1,4 @@
-# multi_tree
+# Multi tree
 C++ code that creates very simple tree of different objects. Download and modify the code!
  
  
