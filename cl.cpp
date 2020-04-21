@@ -78,7 +78,7 @@ void cl_application::build_tree(){
     cin>>master;
     root = new cl_base(nullptr, master, 1);
     cin>>master;
-    while(master!="0"){
+    while(master!="endtree"){
         string slave;cin>>slave;
         int cl,ready;cin>>cl>>ready;
         if (cl == 2)
